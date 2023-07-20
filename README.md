@@ -1,5 +1,5 @@
 # ci-lab
-laboratorio de integración continua
+laboratorio de integración continua.
 
 
 
